@@ -1938,9 +1938,10 @@ img#wpstats {
 		color: #fff;
 		font-size: 14px;
 		margin: 0;
-		padding: 15px 0;
+		padding-top: 15px;
+    padding-left: 20px;
 		font-family:raleway, arial;
-		text-align:center;
+#		text-align:center;
 	}
 	.site-navigation h1.menu-toggle:hover{
 		color: #999;
